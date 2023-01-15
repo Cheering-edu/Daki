@@ -50,11 +50,11 @@
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/92626977/212470068-609dedea-2bfd-4ccf-80b2-6ed2a82e3dc5.png">
 
 <img width="1140" alt="image" src="https://user-images.githubusercontent.com/92626977/212470157-77b77f8c-dcb8-425e-81a4-83bc1881126c.png">
-
-
+  
+![image](https://img.urlnode.com/file/0dc618210e7e38707e3d8.png)
 
 ## 鸣谢下列作者的文章和项目:
-大佬 Nike Jeff 的 trojan 项目，https://github.com/hrzyang/glitch-trojan ，在此基础上作修改。
+大佬 fscarmen2 的Glitch项目，https://github.com/fscarmen2/X-for-Glitch ，在此基础上作修改。
 
 ## 免责声明:
 * 本程序仅供学习了解, 非盈利目的，请于下载后 24 小时内删除, 不得用作任何商业用途, 文字、数据及图片均有所属版权, 如转载须注明来源。
