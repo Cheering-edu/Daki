@@ -14,7 +14,7 @@
 ## 项目特点:
 * 本项目用于在 [Daki](https://daki.cc/) 免费服务上部署 VMESS
 * 集成哪吒探针，可以自由选择是否安装
-* 部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 或者 worker 解决。
+* 本项目由于端口原因，只能直连，不能使用TLS，及不能使用cloudflare和worker
 
 ## 部署:
 * 注册 [Daki](https://daki.cc/)
