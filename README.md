@@ -17,7 +17,7 @@
 * 部署完成如发现不能上网，请检查域名是否被墙，可使用 Cloudflare CDN 或者 worker 解决。
 
 ## 部署:
-* 注册 [Glitch](https://daki.cc/)
+* 注册 [Daki](https://daki.cc/)
 * config.json 的 13 行修改 UUID
 * server.js 的 04行改服务器提供的端口，106 行修改自己的 URL， 44 行修改哪吒参数
 * 部署成功后 vmess ws 的路径为: /api，如要修改，可以寻找并替换 server.js 的 90、96、97 行里的 api
