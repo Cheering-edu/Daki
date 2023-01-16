@@ -103,7 +103,7 @@ app.use(
 /* keepalive  begin */
 function keepalive() {
   // 1.请求主页，保持唤醒
-  let render_app_url = "https://fish-far-production.glitch.me";
+  let render_app_url = "lol.daki.cc:6038";
   exec("curl " + render_app_url, function (err, stdout, stderr) {
     if (err) {
       console.log("保活-请求主页-命令行执行错误：" + err);
